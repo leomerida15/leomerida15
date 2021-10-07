@@ -14,7 +14,7 @@
 ### herramientas 🛠️
 
 ![](https://img.shields.io/badge/-vscode-blue?style=flat&logo=visualstudiocode) ![](https://img.shields.io/badge/-FireBase-grey?style=flat&logo=firebase)
-![](https://img.shields.io/badge/-digitalocean-9cf?style=flat&logo=digitalocean) ![](https://img.shields.io/badge/-Git-grey?style=flat&logo=git&link=https://github.com/leomerida15)](https://github.com/leomerida15) 
+![](https://img.shields.io/badge/-digitalocean-9cf?style=flat&logo=digitalocean) ![](https://img.shields.io/badge/-Git-grey?style=flat&logo=git&link=https://github.com/leomerida15) 
 
 
 ### Lenguajes ⭐
@@ -32,12 +32,8 @@
 ![](https://img.shields.io/badge/-MongoDB-9cf?style=flat&logo=postgresql) 
 
 ### Front ⭐
-![](https://img.shields.io/badge/-React.JS-grey?style=flat&logo=react) 
+![](https://img.shields.io/badge/-React.JS-grey?style=flat&logo=react) ![](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular) ![](https://img.shields.io/badge/-Vue.JS-grey?style=flat&logo=vue.js)    
 <br/>
 <br/>
-![](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular)  
-<br/>
-<br/>
-![](https://img.shields.io/badge/-Vue.JS-grey?style=flat&logo=vue.js)    
 <br/>
 todos con ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) y ![](https://img.shields.io/badge/-TypeScript-9cf?style=flat&logo=typescript) 
