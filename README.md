@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Dimas Mérida — Software Architect and AI Agent Systems Builder" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Dimas Mérida — Software Architect, Product Builder, and Application Developer" />
 
 <br />
 
