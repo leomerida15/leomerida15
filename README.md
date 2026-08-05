@@ -5,7 +5,8 @@
 <br />
 
 [![Email](https://img.shields.io/badge/Email-leomerida15%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:leomerida15@gmail.com)
-[![Cappy Lab](https://img.shields.io/badge/Cappy_Lab-Products_%26_Experiments-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/cappy-lab)
+![LatamEarth](https://img.shields.io/badge/CTO_at_LatamEarth-111827?style=flat-square)
+![GobernAI](https://img.shields.io/badge/GobernAI-AI--native_systems-111827?style=flat-square)
 
 </div>
 
@@ -18,7 +19,7 @@ I design and build **scalable services, developer tools, SaaS platforms, and AI-
 - Working with coding agents such as **OpenCode, Codex, Antigravity, and Claude Code**
 - Exploring persistent context, orchestration, and communication between **humans and AI agents**
 - Applying **DDD, hexagonal architecture, vertical slices, and ports & adapters** where they add real value
-- Creating products and open-source experiments through **[Cappy Lab](https://github.com/cappy-lab)**
+- Serving as **CTO at LatamEarth** and contributing to the development of **GobernAI**
 
 ## Currently building
 
@@ -55,11 +56,11 @@ Developer tooling and reusable building blocks for Supabase applications and wor
 </td>
 <td width="50%" valign="top">
 
-### Cappy Sherp
+### GobernAI
 
-A communication and context layer designed for collaboration between people and software agents.
+An AI-native initiative built around structured workflows, software agents, and scalable services.
 
-`Agent communication` · `Persistent context` · `SaaS`
+`AI-native systems` · `Software agents` · `Scalable services`
 
 </td>
 </tr>
