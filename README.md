@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Dimas Mérida — Software Architect, Product Builder, and Application Developer" />
+<img src="./assets/profile-banner-light.svg?v=1" width="100%" alt="Dimas Mérida — Software Architect, Product Builder, and Application Developer" />
 
 <br />
 
