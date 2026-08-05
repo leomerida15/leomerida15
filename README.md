@@ -77,6 +77,9 @@ A communication and context layer designed for collaboration between people and 
 ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Infisical](https://img.shields.io/badge/Infisical-111827?style=for-the-badge&logo=infisical&logoColor=C5A3FF)
 
 </div>
 
