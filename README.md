@@ -1,39 +1,115 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div align="center">
 
-# Hola soy Dimas Merida. 
+<img src="./assets/profile-banner-light.svg?v=1" width="100%" alt="Dimas Mérida — Software Architect, Product Builder, and Application Developer" />
 
-## Inicie en la programación por diversión y me quede por pasión.
+<br />
 
-[![](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail)](mailto:leomerida15@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leomerida15%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:leomerida15@gmail.com)
+![Management](https://img.shields.io/badge/Technical_%26_Product_Leadership-111827?style=flat-square)
 
-[![](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/leomerida15)](https://gitlab.com/leomerida15) 
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/leomerida15)](https://github.com/leomerida15)
+</div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Resumen de habilidades y herramientas.
+## About me
 
-### herramientas 🛠️
+I design and build **scalable services, developer tools, SaaS platforms, and AI-native systems**. I have a strong foundation in software architecture and turn complex product ideas into maintainable systems through clear boundaries, explicit contracts, and pragmatic technical decisions.
 
-![](https://img.shields.io/badge/-vscode-blue?style=flat&logo=visualstudiocode) ![](https://img.shields.io/badge/-FireBase-grey?style=flat&logo=firebase)
-![](https://img.shields.io/badge/-digitalocean-9cf?style=flat&logo=digitalocean) ![](https://img.shields.io/badge/-Git-grey?style=flat&logo=git&link=https://github.com/leomerida15) 
+- Designing services that can evolve and scale without losing maintainability
+- Building primarily with **TypeScript, Bun, React, Next.js, Supabase, and PostgreSQL**
+- Working with coding agents such as **OpenCode, Codex, Antigravity, and Claude Code**
+- Exploring persistent context, orchestration, and communication between **humans and AI agents**
+- Applying **DDD, hexagonal architecture, vertical slices, and ports & adapters** where they add real value
+- Experienced in **management roles**, combining technical decisions, product direction, and team coordination
 
+## Selected work
 
-### Lenguajes ⭐
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![](https://img.shields.io/badge/-TypeScript-9cf?style=flat&logo=typescript) 
+### [Supabase Kit](https://github.com/leomerida15/supabase-kit)
 
-### Back ⭐
+Developer tooling and reusable building blocks for Supabase applications and workflows.
 
-![](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/leomerida15) 
-  -> ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-  -> ![](https://img.shields.io/badge/-TypeScript-9cf?style=flat&logo=typescript) 
-  
-### DB ⭐
-![](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb) 
-![](https://img.shields.io/badge/-MongoDB-9cf?style=flat&logo=postgresql) 
+[![Repository](https://img.shields.io/badge/Repository-View_source-111827?style=flat-square&logo=github)](https://github.com/leomerida15/supabase-kit)
 
-### Front ⭐
-![](https://img.shields.io/badge/-React.JS-grey?style=flat&logo=react) ![](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular) ![](https://img.shields.io/badge/-Vue.JS-grey?style=flat&logo=vue.js)    
-<br/>
-<br/>
-<br/>
-todos con ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) y ![](https://img.shields.io/badge/-TypeScript-9cf?style=flat&logo=typescript) 
+`Supabase` · `PostgreSQL` · `TypeScript` · `Bun`
+
+</td>
+<td width="50%" valign="top">
+
+### [@form-instant/react-input-mapping](https://www.npmjs.com/package/@form-instant/react-input-mapping)
+
+A React package for mapping form fields to reusable input components with TypeScript.
+
+[![npm](https://img.shields.io/npm/v/@form-instant/react-input-mapping?style=flat-square&logo=npm&label=npm)](https://www.npmjs.com/package/@form-instant/react-input-mapping)
+[![Repository](https://img.shields.io/badge/Repository-View_source-111827?style=flat-square&logo=github)](https://github.com/leomerida15/form-instant-react-mapping)
+
+`React` · `TypeScript` · `Forms` · `Bun`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Mantine Form DevTools](https://github.com/leomerida15/mantine-form-devtools)
+
+Real-time development tools for inspecting Mantine Form values, errors, validation status, and field state.
+
+[![npm](https://img.shields.io/npm/v/mantine-form-devtools?style=flat-square&logo=npm&label=npm)](https://www.npmjs.com/package/mantine-form-devtools)
+[![Repository](https://img.shields.io/badge/Repository-View_source-111827?style=flat-square&logo=github)](https://github.com/leomerida15/mantine-form-devtools)
+
+`React` · `Mantine` · `TypeScript` · `Developer tools`
+
+</td>
+</tr>
+</table>
+
+## Technology focus
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Bun](https://img.shields.io/badge/Bun-111827?style=for-the-badge&logo=bun&logoColor=FBF0DF)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Infisical](https://img.shields.io/badge/Infisical-111827?style=for-the-badge&logo=infisical&logoColor=C5A3FF)
+
+</div>
+
+## AI agent toolkit
+
+<div align="center">
+
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=opencodeinitiative&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=google&logoColor=4285F4)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=D97757)
+
+</div>
+
+I use coding agents as part of the complete engineering workflow: product planning, architecture, implementation, testing, documentation, and review.
+
+## Engineering approach
+
+- Model the domain before choosing abstractions.
+- Keep business rules independent from frameworks and infrastructure.
+- Use automated tests as part of the definition of done.
+- Design explicit contracts between modules, services, and agents.
+- Build services with scalability, observability, and operational evolution in mind.
+- Prefer simple systems that can evolve over premature complexity.
+
+---
+
+<div align="center">
+
+**Open to collaborating on developer tools, SaaS platforms, and AI-native systems.**
+
+[Start a conversation](mailto:leomerida15@gmail.com)
+
+</div>
