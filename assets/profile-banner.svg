@@ -1,0 +1,29 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B16"/>
+      <stop offset="0.55" stop-color="#10162B"/>
+      <stop offset="1" stop-color="#15103A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="70" x2="760" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.52" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#background)"/>
+  <circle cx="1120" cy="55" r="210" fill="#7C3AED" fill-opacity="0.18" filter="url(#glow)"/>
+  <circle cx="1035" cy="345" r="175" fill="#0EA5E9" fill-opacity="0.14" filter="url(#glow)"/>
+  <path d="M990 74L1160 74L1210 124L1210 286L1040 286L990 236V74Z" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="2"/>
+  <path d="M1028 126H1168M1028 164H1138M1028 202H1177M1028 240H1118" stroke="#D8E4FF" stroke-opacity="0.33" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="990" cy="74" r="7" fill="#5EEAD4"/>
+  <circle cx="1210" cy="286" r="7" fill="#A78BFA"/>
+  <rect x="76" y="72" width="8" height="214" rx="4" fill="url(#accent)"/>
+  <text x="118" y="145" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Dimas Mérida</text>
+  <text x="120" y="202" fill="#AFC0DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="500">Software Architect · TypeScript Engineer</text>
+  <text x="120" y="250" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="600">AI-native systems · Developer tools · SaaS products</text>
+  <text x="120" y="292" fill="#7182A5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" letter-spacing="2">BUILDING AT CAPPY LAB</text>
+</svg>
