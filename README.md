@@ -5,8 +5,7 @@
 <br />
 
 [![Email](https://img.shields.io/badge/Email-leomerida15%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:leomerida15@gmail.com)
-![LatamEarth](https://img.shields.io/badge/CTO_at_LatamEarth-111827?style=flat-square)
-![GobernAI](https://img.shields.io/badge/GobernAI-AI--native_systems-111827?style=flat-square)
+![Management](https://img.shields.io/badge/Technical_%26_Product_Leadership-111827?style=flat-square)
 
 </div>
 
@@ -19,9 +18,9 @@ I design and build **scalable services, developer tools, SaaS platforms, and AI-
 - Working with coding agents such as **OpenCode, Codex, Antigravity, and Claude Code**
 - Exploring persistent context, orchestration, and communication between **humans and AI agents**
 - Applying **DDD, hexagonal architecture, vertical slices, and ports & adapters** where they add real value
-- Serving as **CTO at LatamEarth** and contributing to the development of **GobernAI**
+- Experienced in **management roles**, combining technical decisions, product direction, and team coordination
 
-## Currently building
+## Selected work
 
 <table>
 <tr>
@@ -56,11 +55,11 @@ Developer tooling and reusable building blocks for Supabase applications and wor
 </td>
 <td width="50%" valign="top">
 
-### GobernAI
+### Technical & product leadership
 
-An AI-native initiative built around structured workflows, software agents, and scalable services.
+Experience in management roles connecting software architecture, product priorities, and engineering execution.
 
-`AI-native systems` · `Software agents` · `Scalable services`
+`Management` · `Architecture` · `Product direction`
 
 </td>
 </tr>
