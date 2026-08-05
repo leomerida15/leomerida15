@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Dimas Mérida — Software Architect and TypeScript Engineer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Dimas Mérida — Software Architect and AI Agent Systems Builder" />
 
 <br />
 
@@ -11,9 +11,11 @@
 
 ## About me
 
-I design and build **developer tools, SaaS platforms, and AI-native systems**. My work focuses on turning complex product ideas into maintainable software through clear boundaries, explicit contracts, and pragmatic architecture.
+I design and build **scalable services, developer tools, SaaS platforms, and AI-native systems**. I have a strong foundation in software architecture and turn complex product ideas into maintainable systems through clear boundaries, explicit contracts, and pragmatic technical decisions.
 
+- Designing services that can evolve and scale without losing maintainability
 - Building primarily with **TypeScript, Bun, React, Next.js, Supabase, and PostgreSQL**
+- Working with coding agents such as **OpenCode, Codex, Antigravity, and Claude Code**
 - Exploring persistent context, orchestration, and communication between **humans and AI agents**
 - Applying **DDD, hexagonal architecture, vertical slices, and ports & adapters** where they add real value
 - Creating products and open-source experiments through **[Cappy Lab](https://github.com/cappy-lab)**
@@ -78,12 +80,26 @@ A communication and context layer designed for collaboration between people and 
 
 </div>
 
+## AI agent toolkit
+
+<div align="center">
+
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=opencodeinitiative&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=google&logoColor=4285F4)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=D97757)
+
+</div>
+
+I use coding agents as part of the complete engineering workflow: product planning, architecture, implementation, testing, documentation, and review.
+
 ## Engineering approach
 
 - Model the domain before choosing abstractions.
 - Keep business rules independent from frameworks and infrastructure.
 - Use automated tests as part of the definition of done.
 - Design explicit contracts between modules, services, and agents.
+- Build services with scalability, observability, and operational evolution in mind.
 - Prefer simple systems that can evolve over premature complexity.
 
 ---
