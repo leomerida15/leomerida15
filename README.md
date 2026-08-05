@@ -48,6 +48,20 @@ A React package for mapping form fields to reusable input components with TypeSc
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Mantine Form DevTools](https://github.com/leomerida15/mantine-form-devtools)
+
+Real-time development tools for inspecting Mantine Form values, errors, validation status, and field state.
+
+[![npm](https://img.shields.io/npm/v/mantine-form-devtools?style=flat-square&logo=npm&label=npm)](https://www.npmjs.com/package/mantine-form-devtools)
+[![Repository](https://img.shields.io/badge/Repository-View_source-111827?style=flat-square&logo=github)](https://github.com/leomerida15/mantine-form-devtools)
+
+`React` · `Mantine` · `TypeScript` · `Developer tools`
+
+</td>
+</tr>
 </table>
 
 ## Technology focus
