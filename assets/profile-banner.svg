@@ -1,8 +1,8 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="paper" x1="72" y1="28" x2="1210" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8F3EA"/>
-      <stop offset="1" stop-color="#F3EBDD"/>
+      <stop stop-color="#FFFDF9"/>
+      <stop offset="1" stop-color="#F9F5ED"/>
     </linearGradient>
     <linearGradient id="green" x1="890" y1="68" x2="1185" y2="298" gradientUnits="userSpaceOnUse">
       <stop stop-color="#3F5D4A"/>
@@ -16,9 +16,9 @@
     </filter>
   </defs>
 
-  <rect x="8" y="8" width="1264" height="344" rx="28" fill="url(#paper)" stroke="#D8CBB9"/>
+  <rect x="8" y="8" width="1264" height="344" rx="28" fill="url(#paper)" stroke="#E2D8C9"/>
   <rect x="8" y="8" width="1264" height="344" rx="28" fill="url(#grid)"/>
-  <path d="M8 110V36C8 20.536 20.536 8 36 8H540L420 110H8Z" fill="#E9E4D8" fill-opacity=".82"/>
+  <path d="M8 110V36C8 20.536 20.536 8 36 8H540L420 110H8Z" fill="#F3EEE5" fill-opacity=".72"/>
   <rect x="72" y="71" width="52" height="5" rx="2.5" fill="#B89365"/>
 
   <text x="72" y="144" fill="#29231F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="720" letter-spacing="-1.8">Dimas Mérida</text>
@@ -42,7 +42,7 @@
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="846" y="68" width="330" height="224" rx="24" fill="#F8F3EA" stroke="#D8CBB9"/>
+    <rect x="846" y="68" width="330" height="224" rx="24" fill="#FFFDF9" stroke="#E2D8C9"/>
   </g>
   <rect x="872" y="94" width="88" height="42" rx="10" fill="#E5E8DF" stroke="#7F927A"/>
   <rect x="1028" y="94" width="120" height="42" rx="10" fill="#F3EBDD" stroke="#C8BDAE"/>
