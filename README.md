@@ -26,40 +26,25 @@ I design and build **scalable services, developer tools, SaaS platforms, and AI-
 <tr>
 <td width="50%" valign="top">
 
-### [DotAgents](https://github.com/leomerida15/dotagents)
-
-A bridge for synchronizing agent context and configuration across IDEs, extensions, and terminal-based AI tools.
-
-`AI agents` · `Bun` · `TypeScript` · `CLI`
-
-</td>
-<td width="50%" valign="top">
-
-### [Bunstart](https://github.com/leomerida15/bunstart)
-
-A CLI and toolkit for initializing projects and managing Bun-based TypeScript monorepos.
-
-`Bun` · `Monorepos` · `Developer tooling`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [Supabase Kit](https://github.com/leomerida15/supabase-kit)
 
 Developer tooling and reusable building blocks for Supabase applications and workflows.
 
-`Supabase` · `PostgreSQL` · `TypeScript`
+[![Repository](https://img.shields.io/badge/Repository-View_source-111827?style=flat-square&logo=github)](https://github.com/leomerida15/supabase-kit)
+
+`Supabase` · `PostgreSQL` · `TypeScript` · `Bun`
 
 </td>
 <td width="50%" valign="top">
 
-### Technical & product leadership
+### [@form-instant/react-input-mapping](https://www.npmjs.com/package/@form-instant/react-input-mapping)
 
-Experience in management roles connecting software architecture, product priorities, and engineering execution.
+A React package for mapping form fields to reusable input components with TypeScript.
 
-`Management` · `Architecture` · `Product direction`
+[![npm](https://img.shields.io/npm/v/@form-instant/react-input-mapping?style=flat-square&logo=npm&label=npm)](https://www.npmjs.com/package/@form-instant/react-input-mapping)
+[![Repository](https://img.shields.io/badge/Repository-View_source-111827?style=flat-square&logo=github)](https://github.com/leomerida15/form-instant-react-mapping)
+
+`React` · `TypeScript` · `Forms` · `Bun`
 
 </td>
 </tr>
