@@ -4,7 +4,7 @@
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-leomerida15%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:leomerida15@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leomerida15%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:dimasmerida15@gmail.com)
 ![Management](https://img.shields.io/badge/Technical_%26_Product_Leadership-111827?style=flat-square)
 
 </div>
